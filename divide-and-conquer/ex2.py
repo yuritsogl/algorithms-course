@@ -1,3 +1,4 @@
+# Algorithm for Counting Inversions based on merge sort algorithm
 from typing import List
 
 
