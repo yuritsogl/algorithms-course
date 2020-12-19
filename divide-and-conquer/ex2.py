@@ -40,4 +40,4 @@ if __name__ == "__main__":
     assert merge_sort_inversion([1, 2, 4, 3, 5, 6, 8, 7, 9]) == ([1, 2, 3, 4, 5, 6, 7, 8, 9], 2)
     arr = getInput('IntegerArray.txt')
     arr_sorted, inversions = merge_sort_inversion(arr)
-    print('The number of  the inversions in the array is:', inversions)
+    print('The number of the inversions in the array is:', inversions)
