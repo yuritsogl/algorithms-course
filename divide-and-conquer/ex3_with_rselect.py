@@ -1,3 +1,10 @@
+'''
+The program Computes the total number of comparisons used to sort a given input file by QuickSort using different pivots rules:
+1. The first element of the array defined as the pivot.
+2. The last element of the array  defined as the pivot.
+3. The pivot is defined by the "median-of-three" rule.
+'''
+
 from typing import List
 from random import randrange
 
