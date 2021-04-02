@@ -1,4 +1,5 @@
 Question 1
+
 The file contains all of the integers between 1 and 10,000 (inclusive, with no repeats) in unsorted order.  The integer in the i(th) row of the file gives you the i(th) entry of an input array.
 
 Your task is to compute the total number of comparisons used to sort the given input file by QuickSort.  As you know, the number of comparisons depends on which elements are chosen as pivots, so we'll ask you to explore three different pivoting rules.
@@ -21,6 +22,7 @@ So if your answer is 1198233847, then just type 1198233847 in the space provided
 
 
 Question 2
+
 GENERAL DIRECTIONS AND HOW TO GIVE US YOUR ANSWER:
 
 See the first question.
@@ -33,6 +35,7 @@ Recall from the lectures that, just before the main Partition subroutine, you sh
 
 
 Question 3
+
 GENERAL DIRECTIONS AND HOW TO GIVE US YOUR ANSWER:
 
 See the first question.
